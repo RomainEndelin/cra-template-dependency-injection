@@ -7,6 +7,7 @@
     "template",
     "dependency-injection"
   ],
+  "main": "template.json",
   "description": "The base template for Create React App with dependency injection.",
   "author": "Romain Endelin",
   "repository": {
